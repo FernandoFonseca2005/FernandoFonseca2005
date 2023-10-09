@@ -14,8 +14,8 @@
   <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  <br>
-<p align="center"> Number of visits on my profile since: 11/02/2021 </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nandrix225/count.svg" /></p>
+<p align="center"> Number of visits on my profile since: 09/10/2023 </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FernandoFonseca2005/count.svg" /></p>
  <br>
  <div>
   <br>
